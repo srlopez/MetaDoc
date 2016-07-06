@@ -500,6 +500,7 @@ pre {
         font-size: 18px; } }
 
 .doc-navigation {
+  float: left;
   font: 400 16px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #333;
   width: 100%;
@@ -538,7 +539,9 @@ pre {
   margin-left: 16em;
   transform: rotate(45deg);
   cursor: pointer;
-  transition: .7s; }
+  transition: .7s;
+  /* sombra */
+  text-shadow: 2px 1px rgba(75, 75, 75, 0.75); }
   #sidebar-label .icon {
     font-size: 1.5rem;
     color: #e00; }
@@ -557,6 +560,10 @@ sidebar {
   color: #222;
   /* transitions */
   transition: .7s;
+  /* sombra */
+  -webkit-box-shadow: 1px 0px 5px 1px rgba(2, 2, 2, 0.75);
+  -moz-box-shadow: 1px 0px 5px 1px rgba(2, 2, 2, 0.75);
+  box-shadow: 1px 0px 5px 1px rgba(2, 2, 2, 0.75);
   /* sidebar-nav */ }
   sidebar header {
     border-top: 5px solid #424242;
