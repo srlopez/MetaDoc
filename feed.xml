@@ -4,10 +4,10 @@
     <title>MetaDoc!</title>
     <description>Jekyll as static page server for cool documentation.
 </description>
-    <link>http://srlopez.github.io/</link>
-    <atom:link href="http://srlopez.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 06 Jul 2016 19:48:00 +0200</pubDate>
-    <lastBuildDate>Wed, 06 Jul 2016 19:48:00 +0200</lastBuildDate>
+    <link>http://srlopez.github.io/MetaDoc/</link>
+    <atom:link href="http://srlopez.github.io/MetaDoc/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 06 Jul 2016 19:54:40 +0200</pubDate>
+    <lastBuildDate>Wed, 06 Jul 2016 19:54:40 +0200</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -28,8 +28,8 @@
 
 </description>
         <pubDate>Mon, 27 Jun 2016 14:11:53 +0200</pubDate>
-        <link>http://srlopez.github.io/2016/06/27/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://srlopez.github.io/2016/06/27/welcome-to-jekyll.html</guid>
+        <link>http://srlopez.github.io/MetaDoc/2016/06/27/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://srlopez.github.io/MetaDoc/2016/06/27/welcome-to-jekyll.html</guid>
         
         
       </item>
@@ -50,8 +50,8 @@
 
 </description>
         <pubDate>Sat, 25 Jun 2016 16:11:53 +0200</pubDate>
-        <link>http://srlopez.github.io/2016/06/25/and-welcome-to-metadoc.html</link>
-        <guid isPermaLink="true">http://srlopez.github.io/2016/06/25/and-welcome-to-metadoc.html</guid>
+        <link>http://srlopez.github.io/MetaDoc/2016/06/25/and-welcome-to-metadoc.html</link>
+        <guid isPermaLink="true">http://srlopez.github.io/MetaDoc/2016/06/25/and-welcome-to-metadoc.html</guid>
         
         
       </item>
