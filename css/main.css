@@ -607,6 +607,7 @@ sidebar {
         opacity: 1;
         top: 0; }
     sidebar sidebar-nav ul {
+      list-style-type: none;
       margin-left: 10px;
       margin-bottom: 0px; }
     sidebar sidebar-nav label:after {
@@ -615,6 +616,7 @@ sidebar {
       left: 10px;
       position: relative; }
     sidebar sidebar-nav a {
+      text-decoration: none;
       color: inherit; }
       sidebar sidebar-nav a:visited {
         color: inherit; }
@@ -623,8 +625,11 @@ sidebar {
       border-bottom: none;
       padding: 0px 0px;
       margin-left: 0px; }
-    sidebar sidebar-nav *:hover {
+    sidebar sidebar-nav li.active {
+      background-color: #222; }
+    sidebar sidebar-nav li:hover, sidebar sidebar-nav label:hover, sidebar sidebar-nav a:hover {
       cursor: pointer;
-      text-decoration: none; }
+      text-decoration: none;
+      background-color: #111; }
 
 /* sidebar */
